@@ -8,7 +8,7 @@
             <var name="bClockNotSynchronized" type="BOOL"/>
          </vargroup>
 <defines name="TimeQuality"></defines>
-         <sourceSTIL>
+         <sourceSTIL>//tèst of commment with âccents
 
 if bDefault then 
     STRATONLDevice1_TimeQuality_t.1 := FALSE;

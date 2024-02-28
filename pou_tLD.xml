@@ -10,7 +10,7 @@
                <LDcontact kind="D" symbol="" dx="1" dy="0"/>
                <LDcoil kind="D" symbol="" dx="2" dy="0"/>
             </LDrung>
-            <LDbreak dx="0" dy="0" text="test comment"/>
+            <LDbreak dx="0" dy="0" text="tèst of commment with âccents"/>
          </sourceLD>
       </pou>
    </programs>

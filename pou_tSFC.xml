@@ -19,7 +19,7 @@
             <SFCtrans dx="0" dy="5" ref="3" name="GT3" next="GS1">
             </SFCtrans>
             <SFCjump dx="0" dy="6" ref="1" target="GS1"/>
-            <SFCnote ref="4" dx="0" dy="8">test commment
+            <SFCnote ref="4" dx="0" dy="8">tèst of commment with âccents
             </SFCnote>
          </sourceSFC>
       </pou>
